@@ -1,0 +1,29 @@
+
+.box{
+   backdrop-filter: blur(20px);
+   display: flex;
+   flex-direction: column;
+   max-width: 400px;
+   margin: 0 auto;
+   text-align: center;
+   gap: 15px;
+color: white;
+   border: 1px solid white;
+padding: 20px;
+   margin-bottom: 20px;
+
+
+
+
+h2{
+overflow: hidden;
+width: 100%;
+text-overflow: ellipsis;
+}
+
+
+
+   button{
+      padding: 15px;
+   }
+}
